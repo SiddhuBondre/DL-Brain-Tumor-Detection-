@@ -4,6 +4,24 @@
 This project focuses on detecting brain tumors from MRI images using Convolutional Neural Networks (CNNs).
 The goal is to classify MRI scans into different categories (e.g., glioma, meningioma, pituitary tumor, no tumor) and assist in early diagnosis.
 
+# 📂 Dataset
+
+The dataset consists of MRI brain scans categorized into classes:
+
+🟢 No Tumor
+
+🔵 Glioma
+
+🟣 Meningioma
+
+🟡 Pituitary Tumor
+
+You can use datasets from:
+
+Kaggle – Brain Tumor MRI Dataset
+
+Custom hospital datasets
+
 # 🚀 Features
 
 📂 Handles MRI image dataset with preprocessing and augmentation
