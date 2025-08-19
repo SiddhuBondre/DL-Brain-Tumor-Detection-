@@ -45,3 +45,24 @@ NumPy, Pandas, Matplotlib, Seaborn (Data analysis & visualization)
 OpenCV (Image preprocessing)
 
 Streamlit/Flask (for deployment – optional)
+
+# 🧠 Model Workflow
+
+Load Dataset – Read MRI images and apply preprocessing
+
+Data Augmentation – Resize, normalize, and apply rotations/flips
+
+CNN Training – Train model with convolutional layers
+
+Evaluation – Check accuracy, loss, confusion matrix
+
+Prediction – Classify new MRI scans as tumor/no tumor
+
+# 📊 Results
+
+✅ Achieved ~95% accuracy on test dataset
+
+📉 Loss and accuracy curves plotted for training/validation
+
+🔍 Example classification results shown with predicted labels
+
