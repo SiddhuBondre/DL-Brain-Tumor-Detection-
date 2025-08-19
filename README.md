@@ -66,3 +66,12 @@ Prediction – Classify new MRI scans as tumor/no tumor
 
 🔍 Example classification results shown with predicted labels
 
+# 🔮 Future Improvements
+
+Use transfer learning (VGG16, ResNet, Inception, EfficientNet)
+
+Deploy model as a mobile app for doctors
+
+Improve dataset size & diversity for robustness
+
+Add segmentation (detect tumor region, not just classification)
