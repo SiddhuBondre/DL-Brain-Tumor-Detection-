@@ -15,3 +15,15 @@ The goal is to classify MRI scans into different categories (e.g., glioma, menin
 🖼 Visualizes training history and predictions
 
 🌐 Can be deployed as a Flask/Streamlit Web App for doctors/researchers
+
+# 🛠️ Tech Stack
+
+Python 3.x
+
+TensorFlow / Keras (Deep Learning)
+
+NumPy, Pandas, Matplotlib, Seaborn (Data analysis & visualization)
+
+OpenCV (Image preprocessing)
+
+Streamlit/Flask (for deployment – optional)
